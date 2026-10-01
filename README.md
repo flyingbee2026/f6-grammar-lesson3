@@ -1,9 +1,9 @@
 6B Grammar & Writing - Lesson 3: Discussing Solutions
 
-Teacher's version (docx + pdf) and Students' version (docx + pdf); the zip holds all four.
+Teacher's version (her finalised file) and Students' version, both .docx.
 
-Part A: proofreading, 6 sentences (2 errors each) + answer key
-Part B: upgrading vocabulary - the plain wording of each practice-set topic, to be upgraded (students' copy blank)
-Part C: upgrading sentences - the 3 one-clause suggestion patterns + Level 3 -> Level 5 pairs
-Part D: 6 practice sets (sleep, food waste, cyberbullying, mental health, reading, elderly care)
-Part E: writing - one suggestion on improving physical well-being, one pattern as topic sentence (three model paragraphs in the teacher's copy)
+A proofreading (6 sentences, 2 errors each) - key in the teacher's copy, blank answer table in the students'
+B upgrading vocabulary - Basic -> Upgraded; students fill in the Upgraded column
+C upgrading sentences - the three suggestion patterns with Basic / Upgraded models
+D six practice sets; students' answer cells blank
+E writing - one 100-word suggestion on improving physical well-being; teacher's copy has three suggested paragraphs
