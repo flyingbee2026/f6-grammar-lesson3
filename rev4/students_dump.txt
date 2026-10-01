@@ -1,0 +1,107 @@
+P[Normal|None] [Trebuchet MS/10.0/B]St. Joseph's Anglo-Chinese School
+P[Normal|None] [Trebuchet MS/10.0/B]F.6 English Language
+P[Normal|None pBdr=bottom] [Trebuchet MS/10.0/B]Grammar & Writing – Lesson 3: Discussing Solutions
+P[Normal|None] [/B]PART A: PROOFREADING (10 SENTENCES)
+P[Normal|None] []Proofread the following sentences.  + []Each sentence contains TWO errors. 
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]1.  []In recent years, food delivery apps  []ha []s []  []became [] an indispensabl []e [] part of daily life for busy office workers. / [/B]2.  []Living in a  []fast-pace [] society, commuters  []is [] constantly exposed to noise pollution. / [/B]3.  []In recent time, the issue of ageing population has spark widespread concern across society. / [/B]4.  []It is undeniable that early childhood education play a pivotal role in shape children’s characters. / [/B]5.  []To begin with, cultural exchange  []programme []  []offer [] student []s [] golden opportunity to broaden their horizon. / [/B]6.  []Furthermore [], joining the school choir offer teenagers a  []valuable change [] to make new friends,  []which in turn boost their confidence. / [/B]7.  []From the perspective of parents, school counselling services allow  []it  []to understand their children better, which in turn strengthen family relationships. / [/B]8.  []School libraries serve as a powerful mean of encourage students to read, which enables them to become lifelong learners. / [/B]9.  []Admittedly, e-books are more convenien []ce; [] nevertheless, printed books remain irreplaceable, as reading on paper help readers to concentrate better. / [/B]10.  []It is undeniable that a balanced diet  []play [] a pivot []al [] role in maintaining student’ []s [] health.
+P[Normal|None] 
+P[Normal|None] [/B]Write the corrected sentences below:
+TBL 11x2 style=Table Grid
+  r0 | {10.0} [/B]Item || {160.0} [/B]Corrected sentence
+  r1 | {10.0} [/B]1. || {160.0}  / 
+  r2 | {10.0} [/B]2. || {160.0}  / 
+  r3 | {10.0} [/B]3. || {160.0}  / 
+  r4 | {10.0} [/B]4. || {160.0}  / 
+  r5 | {10.0} [/B]5. || {160.0}  / 
+  r6 | {10.0} [/B]6. || {160.0}  / 
+  r7 | {10.0} [/B]7. || {160.0}  / 
+  r8 | {10.0} [/B]8. || {160.0}  / 
+  r9 | {10.0} [/B]9. || {160.0}  / 
+  r10 | {10.0} [/B]10. || {160.0}  / 
+P[Normal|None] 
+P[Normal|None] 
+P[Normal|None] [/B]PART B: UPGRADING SENTENCES — MAKING SUGGESTIONS
+P[Normal|None] []In the paragraph that suggests solutions, most students write  + [/B]“Schools can …”, “The government can …” and “Parents can …” + []. These sentences are correct, but they are plain + [].  + []Part B gives you THREE patterns that upgrade exactly these sentences. 
+P[Normal|None] [/B]Topic for this part:  + []boost the physical fitness and awareness of citizens
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]LEVEL 3 — THE BASIC SENTENCES STUDENTS USUALLY WRITE / []The government can build more sports facilities. / []Schools can organise more sports activities and sports days. / []Parents can exercise with their children at weekends.
+P[Normal|None] 
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]Pattern 1 — Calling for Immediate Action / [/B]Target Formula:  []It is high time that [doer] [ []PAST-TENSE [] verb phrase].
+P[Normal|None] 
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Level 3: || {142.7} []The government can build more sports facilities.
+  r1 | {27.3} [/B]Level 5: || {142.7} [/B]It is high time that [] the government  [/B]invested [] in free, accessible sports facilities in every district.
+P[Normal|None] 
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]Pattern 2 — Purpose-First Recommendation / [/B]Target Formula:  []To [goal], [doer] should make it a priority to [base verb phrase].
+P[Normal|None] 
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Level 3: || {142.7} []Schools can organise more sports activities and sports days.
+  r1 | {27.3} [/B]Level 5: || {142.7} [/B]To boost students’ physical fitness [], schools should  [/B]make it a priority to [] add a daily exercise break to the timetable.
+P[Normal|None] 
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]Pattern 3 — Shared Responsibility / [/B]Target Formula:  [][Doer], in collaboration with [second party], should [verb phrase].
+P[Normal|None] 
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Level 3: || {142.7} []Parents can exercise with their children at weekends.
+  r1 | {27.3} [/B]Level 5: || {142.7} [/B]Parents, in collaboration with schools, [] should encourage their children to adopt a more active lifestyle.
+P[Normal|None] 
+P[Normal|None] [/B]LEVEL 3 → LEVEL 5 VOCABULARY (physical fitness and awareness)
+TBL 6x3 style=Table Grid
+  r0 | {8.0} [/B]# || {60.0} [/B]Level 3 (what students write) || {102.0} [/B]Level 5 upgrade (key words in bold)
+  r1 | {8.0} [/B]1 || {60.0} []make people healthier || {102.0} [/B]enhance citizens’ physical well-being / [/I]e.g. Regular exercise enhances citizens’ physical well-being.
+  r2 | {8.0} [/B]2 || {60.0} []tell people about the importance of exercise || {102.0} [/B]raise public awareness of the importance of regular exercise / [/I]e.g. A city-wide campaign would raise public awareness of the importance of regular exercise.
+  r3 | {8.0} [/B]3 || {60.0} []do exercise || {102.0} [/B]take regular exercise / adopt an active lifestyle / [/I]e.g. Citizens who take regular exercise are far less likely to fall ill.
+  r4 | {8.0} [/B]4 || {60.0} []build more sports places || {102.0} [/B]provide accessible sports facilities / [/I]e.g. Accessible sports facilities encourage even the busiest workers to exercise.
+  r5 | {8.0} [/B]5 || {60.0} []stop people from being lazy || {102.0} [/B]combat sedentary lifestyles / [/I]e.g. A morning workout scheme can combat sedentary lifestyles among office workers.
+P[Normal|None] 
+P[Normal|None] [/B]PART C: PRACTICE SETS (6 SETS)
+P[Normal|None] []Upgrade each simple sentence with the pattern shown, and keep the pattern to ONE clause, as taught in Part B. The topics are different from the fitness topic in Part B. Sets 4–6 are more challenging: you must join the TWO simple sentences into ONE upgraded sentence.
+P[Normal|None] [/B]Set 1. Topic: Teenage Sleep Deprivation
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentence || {142.7} []The government can tell teenagers about the importance of sleep.
+  r1 | {27.3} [/B]Use Pattern 1 || {142.7}  /  / 
+P[Normal|None] [/B]Set 2. Topic: Food Waste on Campus
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentence || {142.7} []Schools can ask students not to waste food in the canteen.
+  r1 | {27.3} [/B]Use Pattern 2 || {142.7}  /  / 
+P[Normal|None] [/B]Set 3. Topic: Cyberbullying
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentence || {142.7} []Parents can talk to their children about cyberbullying.
+  r1 | {27.3} [/B]Use Pattern 3 || {142.7}  /  / 
+P[Normal|None] [/B]Set 4. Topic: Youth Mental Health (more challenging)
+TBL 3x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentences || {142.7} []The government can spend more money on mental health services.
+  r1 | {27.3}  || {142.7} []Young people need these services at school.
+  r2 | {27.3} [/B]Use Pattern 1 || {142.7}  /  / 
+P[Normal|None] [/B]Set 5. Topic: Declining Reading Habits (more challenging)
+TBL 3x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentences || {142.7} []Schools can keep the library open after school.
+  r1 | {27.3}  || {142.7} []Students need a quiet place to read.
+  r2 | {27.3} [/B]Use Pattern 2 || {142.7}  /  / 
+P[Normal|None] [/B]Set 6. Topic: Care for the Elderly (more challenging)
+TBL 3x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentences || {142.7} []Teenagers can visit elderly neighbours who live alone.
+  r1 | {27.3}  || {142.7} []Community centres can arrange these visits.
+  r2 | {27.3} [/B]Use Pattern 3 || {142.7}  /  / 
+P[Normal|None] [/B]PART D: WRITING PRACTICE
+TBL 1x1 style=Table Grid
+  r0 | {170.0} []HKDSE Adapted Paper 2 Prompt: / []You are a Form 6 student. Your school is considering cutting one of the two weekly PE lessons so that F.6 students can have an extra period for examination preparation. Write a letter to the Principal expressing your opinion on this idea.
+P[Normal|None] [/B]Task requirements:
+P[Normal|None] []Write ONE body paragraph (about 120 words) for this letter — not the whole letter.
+P[Normal|None] []State your view on the proposal, give at least one reason and at least one suggestion.
+P[Normal|None] []Use at least TWO of today’s three patterns and underline every target structure you use.
+P[Normal|None] []Follow the Lesson 2 chain: [Topic sentence] → [Explain] → [Example] → [Back to main idea].
+P[Normal|None] [/B]Write your paragraph below:
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
+P[Normal|None] [Times New Roman]________________________________________________________________________________
