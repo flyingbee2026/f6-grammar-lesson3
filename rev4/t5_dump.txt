@@ -1,0 +1,127 @@
+P[Normal|None] [Trebuchet MS/10.0/B]St. Joseph's Anglo-Chinese School
+P[Normal|None] [Trebuchet MS/10.0/B]F.6 English Language
+P[Normal|None pBdr=bottom] [Trebuchet MS/10.0/B]Grammar & Writing – Lesson 3: Discussing Solutions
+P[Normal|None] [/B/C00000]TEACHER’S VERSION — answers, model answers and teaching notes are printed in red.
+P[Normal|None] [/B]PART A: PROOFREADING (10 SENTENCES)
+P[Normal|None] []Proofread the following sentences.  + []Each sentence contains TWO errors. 
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]1.  []In recent years, food delivery apps  []ha []s []  []became [] an indispensabl []e [] part of daily life for busy office workers. / [/B]2.  []Living in a  []fast-pace [] society, commuters  []is [] constantly exposed to noise pollution. / [/B]3.  []In recent time, the issue of ageing population has spark widespread concern across society. / [/B]4.  []It is undeniable that early childhood education play a pivotal role in shape children’s characters. / [/B]5.  []To begin with, cultural exchange  []programme []  []offer [] student []s [] golden opportunity to broaden their horizon. / [/B]6.  []Furthermore [], joining the school choir offer teenagers a  []valuable change [] to make new friends,  []which in turn boost their confidence. / [/B]7.  []From the perspective of parents, school counselling services allow  []it  []to understand their children better, which in turn strengthen family relationships. / [/B]8.  []School libraries serve as a powerful mean of encourage students to read, which enables them to become lifelong learners. / [/B]9.  []Admittedly, e-books are more convenien []ce; [] nevertheless, printed books remain irreplaceable, as reading on paper help readers to concentrate better. / [/B]10.  []It is undeniable that a balanced diet  []play [] a pivot []al [] role in maintaining student’ []s [] health.
+P[Normal|None] 
+P[Normal|None] [/B]TEACHER’S ANSWERS (LESSON 3, PART A)
+TBL 11x3 style=Table Grid
+  r0 | {10.0} [/B]Item || {78.0} [/B]Corrected sentence || {82.0} [/B]The TWO errors and why
+  r1 | {10.0} [/B/C00000]1 || {78.0} [/C00000]In recent years, food delivery apps have become an indispensable part of daily life for busy office workers. || {82.0} [/C00000](a) Agreement: “apps has” → “apps have” (plural subject). / [/C00000](b) Verb form: “has became” → “have become” — after “have” the past participle is needed. (Lesson 1, Pattern 1)
+  r2 | {10.0} [/B/C00000]2 || {78.0} [/C00000]Living in a fast-paced society, commuters are constantly exposed to noise pollution. || {82.0} [/C00000](a) Part of speech: “fast-pace” → “fast-paced” (a compound adjective modifies “society”) / [/C00000](b) Agreement: “commuters is” → “commuters are”. (Lesson 1, Pattern 2)
+  r3 | {10.0} [/B/C00000]3 || {78.0} [/C00000]In recent times, the issue of the ageing population has sparked widespread concern across society. || {82.0} [/C00000](a) Plural: “In recent time” → “In recent times” (the fixed pattern uses the plural). / [/C00000](b) Verb form: “has spark” → “has sparked” — the base form after “has” leaves the clause without a verb. / [/C00000](c) Also: “ageing population” → “the ageing population” (article). (Lesson 1, Pattern 3)
+  r4 | {10.0} [/B/C00000]4 || {78.0} [/C00000]It is undeniable that early childhood education plays a pivotal role in shaping children’s characters. || {82.0} [/C00000](a) Agreement: “education play” → “education plays”. / [/C00000](b) Verb form: “in shape” → “in shaping” — a gerund is needed after the preposition “in”. (Lesson 1, Pattern 4)
+  r5 | {10.0} [/B/C00000]5 || {78.0} [/C00000]To begin with, cultural exchange programmes offer students a golden opportunity to broaden their horizons. || {82.0} [/C00000](a) Agreement: “programme offer” → “programmes offer” (also accepted: “a cultural exchange programme offers”). / [/C00000](b) Article: “students golden opportunity” → “students a golden opportunity”. / [/C00000](c) Also: “their horizon” → “their horizons”. (Lesson 2, Pattern 1)
+  r6 | {10.0} [/B/C00000]6 || {78.0} [/C00000]Furthermore, joining the school choir offers teenagers a valuable chance to make new friends, which in turn boosts their confidence. || {82.0} [/C00000](a) Agreement: “choir offer” → “choir offers” (the subject is the gerund phrase “joining the school choir”). / [/C00000](b) Word choice: “a valuable change” → “a valuable chance”. / [/C00000](c) Also: “which in turn boost” → “boosts” (the clause refers to the whole idea). (Lesson 2, Patterns 1 and 2)
+  r7 | {10.0} [/B/C00000]7 || {78.0} [/C00000]From the perspective of parents, school counselling services allow them to understand their children better, which in turn strengthens family relationships. || {82.0} [/C00000](a) Pronoun reference: “allow it to understand” → “allow them to understand” (the parents). / [/C00000](b) Verb form: “which in turn strengthen” → “strengthens” — the clause needs a finite verb. (Lesson 2, Pattern 2)
+  r8 | {10.0} [/B/C00000]8 || {78.0} [/C00000]School libraries serve as a powerful means of encouraging students to read, which enables them to become lifelong learners. || {82.0} [/C00000](a) Word form: “a powerful mean” → “a powerful means” (the fixed pattern). / [/C00000](b) Verb form: “of encourage” → “of encouraging” — a gerund is needed after the preposition “of”. (Lesson 2, Pattern 3)
+  r9 | {10.0} [/B/C00000]9 || {78.0} [/C00000]Admittedly, e-books are more convenient; nevertheless, printed books remain irreplaceable, as reading on paper helps readers to concentrate better. || {82.0} [/C00000](a) Part of speech: “more convenience” → “more convenient” (an adjective is needed after “are”). / [/C00000](b) Agreement: “reading … help” → “helps” (the subject is the singular gerund “reading”). / [/C00000]Note: the semicolon before “nevertheless” is correct — a comma would be a comma splice. (Lesson 2, Pattern 4)
+  r10 | {10.0} [/B/C00000]10 || {78.0} [/C00000]It is undeniable that a balanced diet plays a pivotal role in maintaining students’ health. || {82.0} [/C00000](a) Agreement: “diet play” → “diet plays”. / [/C00000](b) Possessive / plural: “student’s health” → “students’ health” (all the students). (Lesson 1, Pattern 4)
+P[Normal|None] 
+P[Normal|None] 
+P[Normal|None] [/B]PART B: UPGRADING SENTENCES — MAKING SUGGESTIONS
+P[Normal|None] []In the paragraph that suggests solutions, most students write  + [/B]“Schools can …”, “The government can …” and “Parents can …” + []. These sentences are correct, but they are plain + [].  + []Part B gives you THREE patterns that upgrade exactly these sentences. 
+P[Normal|None] [/B]Topic for this part:  + []boost the physical fitness and awareness of citizens
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]LEVEL 3 — THE BASIC SENTENCES STUDENTS USUALLY WRITE / []The government can build more sports facilities. / []Schools can organise more sports activities and sports days. / []Parents can exercise with their children at weekends.
+P[Normal|None] 
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]Pattern 1 — Calling for Immediate Action / [/B]Target Formula:  []It is high time that [doer] [ []PAST-TENSE [] verb phrase].
+P[Normal|None] 
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Level 3: || {142.7} []The government can build more sports facilities.
+  r1 | {27.3} [/B]Level 5: || {142.7} [/B]It is high time that [] the government  [/B]invested [] in free, accessible sports facilities in every district.
+P[Normal|None] [/B/C00000]Teaching note:  + [/C00000]“It is high time that” is followed by the PAST tense — invested / launched / reviewed — never the present tense (“invests”). If students panic, the easy alternative is “It is high time for the government TO invest …”.
+P[Normal|None] 
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]Pattern 2 — Purpose-First Recommendation / [/B]Target Formula:  []To [goal], [doer] should make it a priority to [base verb phrase].
+P[Normal|None] 
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Level 3: || {142.7} []Schools can organise more sports activities and sports days.
+  r1 | {27.3} [/B]Level 5: || {142.7} [/B]To boost students’ physical fitness [], schools should  [/B]make it a priority to [] add a daily exercise break to the timetable.
+P[Normal|None] [/B/C00000]Teaching note:  + [/C00000]“make it a priority to” takes the BASE verb (“to add”, never “to adding”). Opening with “To + goal” replaces the vague “so that” and shows the marker your purpose in the first three words.
+P[Normal|None] 
+TBL 1x1 style=Table Grid
+  r0 | {170.0} [/B]Pattern 3 — Shared Responsibility / [/B]Target Formula:  [][Doer], in collaboration with [second party], should [verb phrase].
+P[Normal|None] 
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Level 3: || {142.7} []Parents can exercise with their children at weekends.
+  r1 | {27.3} [/B]Level 5: || {142.7} [/B]Parents, in collaboration with schools, [] should encourage their children to adopt a more active lifestyle.
+P[Normal|None] [/B/C00000]Teaching note:  + [/C00000]“in collaboration with” = working together with. It is far stronger than “and” or “also” and shows the marker that you understand shared responsibility. The doer is swappable: “The government, in collaboration with district councils, should …”.
+P[Normal|None] [/B/C00000]Teacher’s note on the design:  + [/C00000]the three patterns are deliberately kept to ONE clause. Endings of the “, so as to …” / “, thereby + –ing” type were left out this time — level 3 students lose control of the main clause as soon as they open a second one. Add the endings back only when the class can hold the short form.
+P[Normal|None] 
+P[Normal|None] [/B]LEVEL 3 → LEVEL 5 VOCABULARY (physical fitness and awareness)
+TBL 6x3 style=Table Grid
+  r0 | {8.0} [/B]# || {60.0} [/B]Level 3 (what students write) || {102.0} [/B]Level 5 upgrade (key words in bold)
+  r1 | {8.0} [/B]1 || {60.0} []make people healthier || {102.0} [/B]enhance citizens’ physical well-being / [/I]e.g. Regular exercise enhances citizens’ physical well-being.
+  r2 | {8.0} [/B]2 || {60.0} []tell people about the importance of exercise || {102.0} [/B]raise public awareness of the importance of regular exercise / [/I]e.g. A city-wide campaign would raise public awareness of the importance of regular exercise.
+  r3 | {8.0} [/B]3 || {60.0} []do exercise || {102.0} [/B]take regular exercise / adopt an active lifestyle / [/I]e.g. Citizens who take regular exercise are far less likely to fall ill.
+  r4 | {8.0} [/B]4 || {60.0} []build more sports places || {102.0} [/B]provide accessible sports facilities / [/I]e.g. Accessible sports facilities encourage even the busiest workers to exercise.
+  r5 | {8.0} [/B]5 || {60.0} []stop people from being lazy || {102.0} [/B]combat sedentary lifestyles / [/I]e.g. A morning workout scheme can combat sedentary lifestyles among office workers.
+P[Normal|None] 
+P[Normal|None] [/B]PART C: PRACTICE SETS (6 SETS)
+P[Normal|None] []Upgrade each simple sentence with the pattern shown, and keep the pattern to ONE clause, as taught in Part B. The topics are different from the fitness topic in Part B. Sets 4–6 are more challenging: you must join the TWO simple sentences into ONE upgraded sentence.
+P[Normal|None] [/B]Set 1. Topic: Teenage Sleep Deprivation
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentence || {142.7} []The government can tell teenagers about the importance of sleep.
+  r1 | {27.3} [/B]Use Pattern 1 || {142.7} [/B/C00000]It is high time that the government raised teenagers’ awareness of the importance of sleep.
+P[Normal|None] [/B/C00000]Key note:  + [/C00000]Accept any past-tense verb phrase: “launched a campaign on healthy sleeping habits”, “made sleep education part of the junior curriculum”.
+P[Normal|None] [/B]Set 2. Topic: Food Waste on Campus
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentence || {142.7} []Schools can ask students not to waste food in the canteen.
+  r1 | {27.3} [/B]Use Pattern 2 || {142.7} [/B/C00000]To cut food waste on campus, schools should make it a priority to offer smaller portions and free second helpings.
+P[Normal|None] [/B/C00000]Key note:  + [/C00000]Accept “To reduce food waste …” and any sensible verb phrase after “make it a priority to”.
+P[Normal|None] [/B]Set 3. Topic: Cyberbullying
+TBL 2x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentence || {142.7} []Parents can talk to their children about cyberbullying.
+  r1 | {27.3} [/B]Use Pattern 3 || {142.7} [/B/C00000]Parents, in collaboration with schools, should discuss online safety openly with their children.
+P[Normal|None] [/B/C00000]Key note:  + [/C00000]Accept any sensible second party (the school, social workers) and any formal verb phrase (“set clear rules about online behaviour at home”).
+P[Normal|None] [/B]Set 4. Topic: Youth Mental Health (more challenging)
+TBL 3x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentences || {142.7} []The government can spend more money on mental health services.
+  r1 | {27.3}  || {142.7} []Young people need these services at school.
+  r2 | {27.3} [/B]Use Pattern 1 || {142.7} [/B/C00000]It is high time that the government invested more in school-based mental health services for young people.
+P[Normal|None] [/B/C00000]Key note:  + [/C00000]Idea 2 is folded into the modifier “school-based”, so the pattern stays one clean clause. Also accept “… invested more in mental health services in schools.”
+P[Normal|None] [/B]Set 5. Topic: Declining Reading Habits (more challenging)
+TBL 3x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentences || {142.7} []Schools can keep the library open after school.
+  r1 | {27.3}  || {142.7} []Students need a quiet place to read.
+  r2 | {27.3} [/B]Use Pattern 2 || {142.7} [/B/C00000]To give students a quiet place to read, schools should make it a priority to keep the library open after school.
+P[Normal|None] [/B/C00000]Key note:  + [/C00000]Idea 2 becomes the fronted goal; the second plain sentence must disappear into the pattern.
+P[Normal|None] [/B]Set 6. Topic: Care for the Elderly (more challenging)
+TBL 3x2 style=Table Grid
+  r0 | {27.3} [/B]Simple sentences || {142.7} []Teenagers can visit elderly neighbours who live alone.
+  r1 | {27.3}  || {142.7} []Community centres can arrange these visits.
+  r2 | {27.3} [/B]Use Pattern 3 || {142.7} [/B/C00000]Teenagers, in collaboration with community centres, should organise regular visits to elderly neighbours who live alone.
+P[Normal|None] [/B/C00000]Key note:  + [/C00000]Idea 2 becomes the second party after “in collaboration with”. Watch the plural: “the elderly” is already plural — never “the elderlies”.
+P[Normal|None] [/B]PART D: WRITING PRACTICE
+TBL 1x1 style=Table Grid
+  r0 | {170.0} []HKDSE Adapted Paper 2 Prompt: / []You are a Form 6 student. Your school is considering cutting one of the two weekly PE lessons so that F.6 students can have an extra period for examination preparation. Write a letter to the Principal expressing your opinion on this idea. / []You are a Form 6 student. Hong Kong’s population is ageing rapidly, and the needs of elderly citizens have become a pressing social issue. Write a letter to the editor of the Hong Kong Young Post, suggesting THREE ways in which our city can care for its growing number of elderly citizens.
+P[Normal|None] [/B]Task requirements:
+P[Normal|None] []Write THREE body paragraphs (about 100 words each) for this letter.
+P[Normal|None] []Begin each paragraph with a topic sentence that makes ONE suggestion, using a different pattern from today’s lesson in each paragraph.
+P[Normal|None] []Then explain why the suggestion helps, give an example or some evidence, and round the paragraph off.
+P[Normal|None] []You do NOT need to use the Lesson 1 or Lesson 2 patterns in the explanation, the example or the round-off.
+P[Normal|None] []Follow the chain: [Topic sentence] → [Explain] → [Example / evidence] → [Round off].
+P[Normal|None] 
+P[Normal|None] [/B]Teacher’s three suggested paragraphs (the body of the letter — the opening “Dear Editor,” and the closing are the class’s own work)
+P[Normal|None] [/B]Suggested paragraph 1 — community health care (topic sentence uses Pattern 1)
+P[Normal|None] []It is high time that the government invested in community health services for the elderly. + [/C00000]  [Topic sentence — Pattern 1] + []Many older citizens find a trip to a hospital exhausting, and a minor complaint that nobody checks in time easily grows into a serious illness. + [/C00000]  [Explain] + []Take an elderly resident with high blood pressure: a fortnightly visit from a community nurse would keep the condition under control, while an appointment at a public hospital may not come for months. + [/C00000]  [Example] + []Looking after the elderly in their own neighbourhood therefore protects both their health and the public purse. + [/C00000]  [Round off]
+P[Normal|None] [/B]Suggested paragraph 2 — community centres against loneliness (topic sentence uses Pattern 2)
+P[Normal|None] []To ease the loneliness that many elderly people face, district councils should make it a priority to turn community centres into lively daily meeting places. + [/C00000]  [Topic sentence — Pattern 2] + []Isolation damages both the mind and the body, and it is far cheaper to prevent than to treat. + [/C00000]  [Explain] + []A centre that runs morning tai chi and afternoon board games, for instance, gives a retired resident a fixed routine and the friendships that come with it. + [/C00000]  [Example] + []Simple, cheap and human, these centres are the best medicine our city can offer. + [/C00000]  [Round off]
+P[Normal|None] [/B]Suggested paragraph 3 — work and purpose for retired citizens (topic sentence uses Pattern 3)
+P[Normal|None] []The government, in collaboration with businesses and charities, should create flexible part-time jobs for retired workers. + [/C00000]  [Topic sentence — Pattern 3] + []Many experienced citizens still have energy and skills to offer, yet they are pushed out of the workforce the moment they turn sixty-five, which leaves both the economy and their own sense of purpose the poorer. + [/C00000]  [Explain] + []A retired accountant could mentor young clerks two mornings a week, or a former nurse could advise a care home part-time, with the government covering part of the wage. + [/C00000]  [Example] + []Giving older citizens a role keeps their skills alive and lightens the welfare burden on the younger generation. + [/C00000]  [Round off]
+P[Normal|None] [/B/C00000]Teacher’s note:  + [/C00000]check every paragraph against the chain [Topic sentence] → [Explain] → [Example / evidence] → [Round off]. The topic sentence is the only place where a target pattern is required.
+P[Normal|None] [/B/C00000]What to reward when marking
+P[Normal|None] []Content:  + []three DIFFERENT suggestions that are realistic for Hong Kong, each with its own paragraph — not three versions of the same idea.
+P[Normal|None] []Language:  + []the topic sentence uses the target pattern accurately; the explanation, the example and the round-off may be in the students’ own plain English.
+P[Normal|None] []Organisation:  + []one suggestion per paragraph, each following [Topic sentence] → [Explain] → [Example / evidence] → [Round off].
+P[Normal|None] [/B/C00000]Common errors to watch when marking
+P[Normal|None] []“It is high time that the government promote …” → the past tense is needed (“promoted”).
+P[Normal|None] []“make it a priority to + –ing” → base verb only (“to add”).
+P[Normal|None] []“in collaboration with” used as a verb (“parents collaborate with schools should…”) → keep it as a phrase between the subject and the modal.
+P[Normal|None] []Sentence boundaries: a participle phrase after a comma with no matching subject (“Living in a fast-paced society, academic pressure …”), or a new sentence after a comma (“… flexibility, nevertheless, they cannot …”) → full stop and a capital letter.
+P[Normal|None] []“the elderly” treated as singular (“the elderlies”, “the elderly feels”).
