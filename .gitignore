@@ -1,2 +1,4 @@
 *.py
 rev4/
+*.zip
+!(6B Grammar Lesson 3 - Discussing Solutions (Teacher + Students)).zip
